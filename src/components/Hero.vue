@@ -11,7 +11,7 @@
               </h2>
               <p>become a chef in your own house</p>
               <router-link class="btn btn-lg btn-success" to="/foods">
-                <b-icon-arrow-right></b-icon-arrow-right>Resep
+                <b-icon-arrow-right></b-icon-arrow-right>Masak Sekarang
               </router-link>
             </div>
           </div>
