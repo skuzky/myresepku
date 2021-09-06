@@ -5,6 +5,8 @@ Sebuah aplikasi resep masakan untuk anda coba di rumah. aplikasi ini ditujukan u
 untuk database saya menggunakan json, dan untuk menjalankanya saya menggunakan fake api server dengan bantuan module JSON PLaceholder.
 file db terdapat di folder db/db.json
 
+Live demo aplikasi : https://gracious-kepler-5cfbf1.netlify.app/
+
 ## Project setup
 ```
 npm install
