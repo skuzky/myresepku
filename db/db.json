@@ -54,33 +54,6 @@
         {"message": "Sajikan dengan bumbu Kacang dan acar."}
       ],
       "deskripsi": "Sate ayam adalah makanan khas Indonesia. Sate Ayam dibuat dari daging ayam. Pada umumnya sate ayam dimasak dengan cara dipanggang dengan menggunakan arang dan disajikan dengan pilihan bumbu kacang atau bumbu kecap. Sate ini biasanya disajikan bersama dengan lontong atau nasi."
-    },
-    {
-      "id": 2,
-      "kode": "K-02",
-      "nama": "Nasi Goreng Telur",
-      "waktu": "10 Menit",
-      "kategori": "makanan kering",
-      "gambar": "nasi-goreng-telor.jpg",
-      "bahan": [
-        {"message": "1 piring nasi"},
-        {"message": "2 butir telur (me: 1 butir)"},
-        {"message": "1/2 sdt kaldu bubuk"},
-        {"message": "1/4 sdt garam"},
-        {"message": "1/2 sdt saus tiram"},
-        {"message": "1/2 sdt minyak wijen"},
-        {"message": "1 sdt kecap manis"},
-        {"message": "2 siung bawang merah "},
-        {"message": "1 siung bawang putih "},
-        {"message": "4 cabai "},
-        {"message": "3 sdm minyak goreng "}
-      ],
-      "langkah": [
-        {"message": "Panaskan minyak, masukkan telur, orak arik. Sampai telur matang.Masukkan nasi aduk rata."},
-        {"message": "Tambahkan minyak wijen, kecap manis dan saus tiram, campur rata, tambahkan, lada dan garam."},
-        {"message": "Setelah semua bumbu rata dan rasa sudah pas, lalu angkat.Nasi goreng telur siap disajikan."}
-      ],
-      "deskripsi": "Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng, margarin, atau mentega. serta tambahan telur"
     }
   ]
 }
