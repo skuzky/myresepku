@@ -25,35 +25,5 @@
       "gambar": "nasi-rames.jpg",
       "deskripsi": "masakan khas Indonesia. Makanan ini terdiri dari nasi putih yang dihidangkan dengan bermacam-macam lauk-pauk. Lauk yang digunakan adalah sambal goreng, abon, serundeng, tahu goreng, ikan goreng, telur dan lain-lain."      
     }
-  ],
-  "products": [
-    {
-      "id": 1,
-      "kode": "K-01",
-      "nama": "Sate Ayam",
-      "waktu": "30 Menit",
-      "kategori": "sate",
-      "gambar": "sate-ayam.jpg",
-      "bahan": [
-        {"message": "125 gr ayam fillet potong dadu"},
-        {"message": "5 tusuk sate"},
-        {"message": "Bumbu kacang"},
-        {"message": "75 gr kacang tanah goreng lalu tumbuk halus"},
-        {"message": "2 lembar daun jeruk sobek sobek"},
-        {"message": "1 sdm kecap manis"},
-        {"message": "1/2 sdm gula merah"},
-        {"message": "Mentega untuk menumis"}
-      ],
-      "langkah": [
-        {"message": "Lumuri ayam dengan marinasi. Sissihkan."},
-        {"message": "Bumbu kacang:tumis bumbu dengan daun jeruk sampai tercium bau harum. Masukkan Kacang tanah yang sudah di haluskan. Tambahkan gula merah, gula pasir, garam dan kecap. Tambahkan air dan koreksi rasa. Masak sampai mengental dan mengeluarkan minyak. Angkat dan sisihkan."},
-        {"message": "Ayam ayam yang sudah di marinasi lalu di tusuk dengan tusuk sate."},
-        {"message": "Siapkan alat bakaran pan/wajan datar anti lengket."},
-        {"message": "Campur bahan olesan lalu oleskan ke ayam."},
-        {"message": "Bakar sate sampai dibolak balik dan di olesi bumbu hingga matang"},
-        {"message": "Sajikan dengan bumbu Kacang dan acar."}
-      ],
-      "deskripsi": "Sate ayam adalah makanan khas Indonesia. Sate Ayam dibuat dari daging ayam. Pada umumnya sate ayam dimasak dengan cara dipanggang dengan menggunakan arang dan disajikan dengan pilihan bumbu kacang atau bumbu kecap. Sate ini biasanya disajikan bersama dengan lontong atau nasi."
-    }
   ]
 }
