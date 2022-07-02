@@ -89,21 +89,21 @@ export default {
     },
     searchFood() {
       axios
-      .get("http://localhost:3000/products?q="+this.search)
+        .get("https://bagusdbase-default-rtdb.asia-southeast1.firebasedatabase.app/products?q="+this.search)
       .then((response) => this.setProducts(response.data))
       .catch((error) => console.log(error));
     },
     cari : function(kategori){
     //   alert(kategori);
        axios
-      .get("http://localhost:3000/products?q="+kategori)
+         .get("https://bagusdbase-default-rtdb.asia-southeast1.firebasedatabase.app/products?q="+kategori)
       .then((response) => this.setProducts(response.data))
       .catch((error) => console.log(error));
     }
   },
   mounted() {
     axios
-      .get("http://localhost:3000/products")
+      .get("https://bagusdbase-default-rtdb.asia-southeast1.firebasedatabase.app/products")
       .then((response) => this.setProducts(response.data))
       .catch((error) => console.log(error));
   },

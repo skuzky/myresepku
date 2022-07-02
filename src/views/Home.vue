@@ -62,7 +62,7 @@ export default {
   },
   mounted() {
     axios
-      .get("http://localhost:3000/best-products")
+      .get("https://bagusdbase-default-rtdb.asia-southeast1.firebasedatabase.app/best-products")
       // .then(response) => this.setProduct(response.data)
           // console.log("berhasiil :", response);
       .then((response) => this.setProduct(response.data))
